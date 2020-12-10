@@ -26,5 +26,8 @@ Here are some gists
     
   <dt>Day 8
   <dd>https://gist.github.com/rasteiner/1793a9b063b1c6134df932c8d0026f31
+
+  <dt>Day 9
+  <dd>https://gist.github.com/rasteiner/cc0322ea2960ed8f673e039c9b7f9af0
 </dl>
 
