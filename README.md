@@ -31,6 +31,7 @@ Here are some gists
   <dd>https://gist.github.com/rasteiner/cc0322ea2960ed8f673e039c9b7f9af0
   
   <dt>Day 10
-  <dd>https://gist.github.com/rasteiner/c791495f7d9c9323ff29d1a7eeb26e0f
+  <dd>https://gist.github.com/rasteiner/c791495f7d9c9323ff29d1a7eeb26e0f<br>
+      Bonus points for universal solution: https://gist.github.com/rasteiner/10140f381b21229318d915edad282eb9
 </dl>
 
