@@ -32,6 +32,10 @@ Here are some gists
   
   <dt>Day 10
   <dd>https://gist.github.com/rasteiner/c791495f7d9c9323ff29d1a7eeb26e0f<br>
-      Bonus points for universal solution: https://gist.github.com/rasteiner/10140f381b21229318d915edad282eb9
+      Bonus points for "almost universal solution": https://gist.github.com/rasteiner/10140f381b21229318d915edad282eb9
+  
+  <dt>Day 11
+  <dd>https://gist.github.com/rasteiner/59f754451a3d67bbc4f5bb4d6953025f
+    
 </dl>
 
