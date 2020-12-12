@@ -37,5 +37,7 @@ Here are some gists
   <dt>Day 11
   <dd>https://gist.github.com/rasteiner/59f754451a3d67bbc4f5bb4d6953025f
     
+  <dt>Day 12
+  <dd>https://gist.github.com/rasteiner/cf03836c204884caf7d53025c1f66450
 </dl>
 
