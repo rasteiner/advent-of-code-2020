@@ -39,5 +39,8 @@ Here are some gists
     
   <dt>Day 12
   <dd>https://gist.github.com/rasteiner/cf03836c204884caf7d53025c1f66450
+
+  <dt>Day 13 (LOL solution to part 2)
+  <dd>https://gist.github.com/rasteiner/0b7f2d0ff4edc4a237621b29163cbf9a
 </dl>
 
