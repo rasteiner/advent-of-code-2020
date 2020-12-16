@@ -48,5 +48,8 @@ Here are some gists
     
   <dt>Day 15
   <dd>https://gist.github.com/rasteiner/287849008c366d6f8b6c8ad348a8b812
+    
+  <dt>Day 16
+  <dd>https://gist.github.com/rasteiner/bf6a7891a8d27573aa459f82003d79d9
 </dl>
 
