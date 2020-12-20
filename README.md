@@ -57,5 +57,11 @@ Here are some gists
   
   <dt>Day 18
   <dd>https://gist.github.com/rasteiner/ce295dc7dc08e138f28cb6669edab07d
+
+  <dt>Day 19
+  <dd> me small brain
+
+  <dt>Day 20
+  <dd>https://gist.github.com/rasteiner/d4e6c1cd0a8d0178607b30257cd5767e
 </dl>
 
